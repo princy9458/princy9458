@@ -38,3 +38,5 @@ Problem Solving
 
 Other Skills:
 SEO Leadership Team Management
+
+✨ Always learning, building, and growing as a Full-Stack Developer.
